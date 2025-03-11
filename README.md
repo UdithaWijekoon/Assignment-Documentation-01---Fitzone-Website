@@ -1,1 +1,1 @@
-*** This is a documentation fo a website completed by me***
+*** This is a documentation for a website completed by me***
